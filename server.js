@@ -21,7 +21,7 @@ const products = [
         category: "Monitores",
         price: 450, 
         description: "Colores reales, refresco de 144hz.",
-        image: "/img/monitor-404.jpg" 
+        image: "https://images.unsplash.com/photo-1527800792452-506aacb2101f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
     },
     { 
         id: 3, 
@@ -29,7 +29,7 @@ const products = [
         category: "Periféricos",
         price: 150, 
         description: "Switches azules ruidosos.",
-        image: "https://images.unsplash.com/photo-1595225476474-87563907a212?q=80&w=4000" // BUG: Imagen de 5MB (Performance)
+        image: "https://images.unsplash.com/photo-1595225476474-87563907a212??w=500&q=80" 
     },
     { 
         id: 4, 
