@@ -104,8 +104,9 @@ header {
     transition: background 0.3s;
 }
 
+
 .btn-add:hover {
-    background-color: white;
+    background-color: green;
 }
 
 /* Footer & Status */
